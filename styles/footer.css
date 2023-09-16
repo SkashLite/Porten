@@ -6,7 +6,7 @@
       rgba(15, 15, 15, 0.5) 0%,
       rgba(15, 15, 15, 0.5) 100%
     ),
-    url(/img/1bcdf16cb80ba5349612b2e3e9ddd2ff.jpg), lightgray 50%;
+    url(../img/1bcdf16cb80ba5349612b2e3e9ddd2ff.jpg), lightgray 50%;
   background-position: center;
   background-size: cover;
   flex-shrink: 0;

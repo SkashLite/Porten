@@ -140,7 +140,7 @@
       rgba(15, 15, 15, 0.5) 0%,
       rgba(15, 15, 15, 0.5) 100%
     ),
-    url(/img/30ba8c8c5a993f0f64cb516e538d538b.jpg), lightgray 50%;
+    url(../img/30ba8c8c5a993f0f64cb516e538d538b.jpg), lightgray 50%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
